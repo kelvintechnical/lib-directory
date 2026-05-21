@@ -1122,34 +1122,6 @@ What kernel modules exist?     → ls /lib/modules/$(uname -r)/kernel/
 What's the firmware blob?      → ls /lib/firmware/ | grep <hardware>
 ```
 
----
-
-## 🔗 Series Index
-
-| # | Directory | Repo |
-|---|---|---|
-| 01 | `/bin` | [bin-directory](https://github.com/kelvintechnical/bin-directory) |
-| 02 | `/sbin` | [sbin-directory](https://github.com/kelvintechnical/sbin-directory) |
-| 👉 03 | `/lib` | **You are here** |
-| 04 | `/lib64` | [what-is-the-lib64-directory](https://github.com/kelvintechnical/what-is-the-lib64-directory) |
-| 05 | `/usr` | [what-is-the-usr-directory](https://github.com/kelvintechnical/what-is-the-usr-directory) |
-| 06 | `/etc` | [what-is-the-etc-directory](https://github.com/kelvintechnical/what-is-the-etc-directory) |
-| 07 | `/boot` | [what-is-the-boot-directory](https://github.com/kelvintechnical/what-is-the-boot-directory) |
-| 08 | `/home` | [what-is-the-home-directory](https://github.com/kelvintechnical/what-is-the-home-directory) |
-| 09 | `/root` | [what-is-the-root-directory](https://github.com/kelvintechnical/what-is-the-root-directory) |
-| 10 | `/var` | [what-is-the-var-directory](https://github.com/kelvintechnical/what-is-the-var-directory) |
-| 11 | `/tmp` | [what-is-the-tmp-directory](https://github.com/kelvintechnical/what-is-the-tmp-directory) |
-| 12 | `/opt` | [what-is-the-opt-directory](https://github.com/kelvintechnical/what-is-the-opt-directory) |
-| 13 | `/srv` | [what-is-the-srv-directory](https://github.com/kelvintechnical/what-is-the-srv-directory) |
-| 14 | `/dev` | [what-is-the-dev-directory](https://github.com/kelvintechnical/what-is-the-dev-directory) |
-| 15 | `/proc` | [what-is-the-proc-directory](https://github.com/kelvintechnical/what-is-the-proc-directory) |
-| 16 | `/sys` | [what-is-the-sys-directory](https://github.com/kelvintechnical/what-is-the-sys-directory) |
-| 17 | `/run` | [what-is-the-run-directory](https://github.com/kelvintechnical/what-is-the-run-directory) |
-| 18 | `/media` | [what-is-the-media-directory](https://github.com/kelvintechnical/what-is-the-media-directory) |
-| 19 | `/mnt` | [what-is-the-mnt-directory](https://github.com/kelvintechnical/what-is-the-mnt-directory) |
-| 20 | `/afs` | [what-is-the-afs-directory](https://github.com/kelvintechnical/what-is-the-afs-directory) |
-
----
 
 ## 🔗 Part of Linux Ops Mastery
 
